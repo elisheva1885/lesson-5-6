@@ -2,6 +2,10 @@ const elisheva = ()=>{
     return "happy chanuka!!"
 }
 
+const donuts = ()=>{
+    console.error("diet????");    
+}
+
 const miryami = ()=>{
-    return [u,2]
+    return "thank you :)"
 }
