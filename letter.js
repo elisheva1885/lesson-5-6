@@ -3,5 +3,5 @@ const elisheva = ()=>{
 }
 
 const miryami = ()=>{
-    return "thank you :)"
+    return [u,2]
 }
