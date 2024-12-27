@@ -1,4 +1,4 @@
-const eli7 = ()=>{
+const elisheva = ()=>{
     return "happy chanuka!!"
 }
 
